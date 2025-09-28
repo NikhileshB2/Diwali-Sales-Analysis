@@ -7,7 +7,7 @@ Pandas – Data cleaning and manipulation
 
 Matplotlib & Seaborn – Data visualization
 
-🎯 Purpose**
+**🎯 Purpose**
 
 To perform data cleaning and preprocessing for reliable analysis.
 
@@ -19,7 +19,7 @@ To analyze top-performing products and categories for better inventory planning.
 
 To generate insights that can improve customer experience and boost sales.
 
-📊 Analysis List**
+**📊 Analysis List**
 
 Here’s what has been performed in the project:
 
@@ -33,7 +33,7 @@ Changed datatypes (e.g., Amount → integer).
 
 Renamed columns for clarity.
 
-Exploratory Data Analysis (EDA)**
+**Exploratory Data Analysis (EDA)**
 
 Gender Analysis – Compared total sales and order counts by gender.
 
@@ -49,7 +49,7 @@ Product Category Analysis – Found top-selling product categories.
 
 Product ID Analysis – Highlighted top 10 most sold products.
 
-Business Insights**
+**Business Insights**
 
 Identified target customers (married women, age group 26–35, working professionals).
 
